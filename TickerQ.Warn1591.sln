@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerQ.Warn1591", "TickerQ.Warn1591.csproj", "{9239950D-BB7F-4304-B65B-D38856832271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9239950D-BB7F-4304-B65B-D38856832271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9239950D-BB7F-4304-B65B-D38856832271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9239950D-BB7F-4304-B65B-D38856832271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9239950D-BB7F-4304-B65B-D38856832271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
